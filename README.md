@@ -22,7 +22,8 @@ TBD
 * comparison table
 TBD
 
-## Platform / Environment
+## Experimental Setup
+platform and experiment situation
 we experimented with the MicroRos-Rp5 model at UNIST.
 
 ## References
