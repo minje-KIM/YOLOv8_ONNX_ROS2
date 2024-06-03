@@ -1,7 +1,11 @@
 # YOLO-with-Raspi5
 Hello
 
-
+# laser_segmentation
+![ROS2](https://img.shields.io/badge/ros2-humble-blue?logo=ros&logoColor=white)
+![License](https://img.shields.io/github/license/ajtudela/laser_segmentation)
+[![Build](https://github.com/ajtudela/laser_segmentation/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/ajtudela/laser_segmentation/actions/workflows/build.yml)
+[![codecov](https://codecov.io/gh/ajtudela/laser_segmentation/graph/badge.svg?token=R48HZO62SQ)](https://codecov.io/gh/ajtudela/laser_segmentation)
 
 ## ROS package configuration
 **Subscribed Topic**: 
@@ -12,6 +16,8 @@ Hello
   - Bounding boxes (manually created message type) ```boundingboxes/msg/BoundingBoxes```
 
 
+
+## Results
 
 
 ## References
