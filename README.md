@@ -3,10 +3,11 @@
 ![Ubuntu](https://img.shields.io/badge/ubuntu-22.04-blue)
 ![Python](https://img.shields.io/badge/python-3.8-blue)
 
+## Overview
+This package provides ~
 
 
-
-## ROS package configuration
+## ROS Package Configuration
 **Subscribed Topic**: 
   - Input image-stream ```sensor_msgs/msg/Image```<br>
 
@@ -15,10 +16,14 @@
   - Bounding boxes (manually created message type) ```boundingboxes/msg/BoundingBoxes```
 
 
-
 ## Results
+* Actual video
+TBD
+* comparison table
+TBD
 
-
+## Platform / Environment
+we experimented with the MicroRos-Rp5 model at UNIST.
 
 ## References
 * https://github.com/moksh-401-511/YOLOv5_ROS2-YOu-can-Leverage-On-ROS2
