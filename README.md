@@ -15,6 +15,7 @@ This repository is a ROS2 package that performs object detection using YOLOv8 wi
 **Published Topic**: 
   - Image-stream with bounding box around detected objects : ```sensor_msgs/msg/Image```<br>
  
+![image](https://https://github.com/minje-KIM/YOLO-with-Raspi5/blob/main/rqt_graph.png)
 
 
 ## Results
