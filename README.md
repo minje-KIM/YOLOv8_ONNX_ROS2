@@ -48,14 +48,11 @@ ros2 launch yolo_v8 detection.xml
 
 
 ## Results
-* Actual video
+* EUROC dataset on Workstation CPU
 TBD
-* comparison table
+* Real-life dataset on Raspi5-robot
 TBD
 
-## Experimental Setup
-platform and experiment situation
-we experimented with the MicroRos-Rp5 model at UNIST.
 
 ## References
 
