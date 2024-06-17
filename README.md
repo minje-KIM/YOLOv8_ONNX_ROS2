@@ -18,7 +18,18 @@ This repository is a ROS2 package that performs object detection using YOLOv8 wi
 ![image](rqt_graph.png)
 
 ## Installation
+You can easily convert using the ultralytics python library.
+```shell
+pip install ultralytics
+```
 
+Please write down a Python file to convert a PyTorch model to ONNX format. 
+```python
+from ultralytics import YOLO
+
+model = YOLO("yolov8m.pt") 
+model.export(format="onnx", imgsz=[480,640])
+```
 
 ## Usage
 
