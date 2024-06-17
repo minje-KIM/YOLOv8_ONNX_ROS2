@@ -3,17 +3,16 @@
 ![Ubuntu](https://img.shields.io/badge/ubuntu-22.04-blue)
 ![Python](https://img.shields.io/badge/python-3.8-blue)
 
-
 This repository is a ROS2 package that performs object detection using YOLOv8 with ONNX.
 
 
 ## ROS Package Configuration
 **Subscribed Topic**: 
-  - Input image-stream ```sensor_msgs/msg/Image```<br>
+  - Image-stream ```sensor_msgs/msg/Image```<br>
 
 **Published Topic**: 
   - Image-stream with bounding box around detected objects ```sensor_msgs/msg/Image```<br>
-  - Bounding boxes (manually created message type) ```boundingboxes/msg/BoundingBoxes```
+ 
 
 
 ## Results
