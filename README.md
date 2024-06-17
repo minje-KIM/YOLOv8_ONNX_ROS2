@@ -35,7 +35,8 @@ optimize_cpu = True
 model = YOLO(f"{model_name}.pt") 
 model.export(format="onnx", imgsz=[input_height,input_width], optimize=optimize_cpu)
 ```
-move the onnx file into the ros2 package, especially the resource folder.
+
+Move the ONNX file into the resource folder of the ROS2 package.
 ```shell
 mv (yolov8m.onnx) (your_ws)/src/yolo_v8/resources
 ```
