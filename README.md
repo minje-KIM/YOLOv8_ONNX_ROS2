@@ -15,7 +15,7 @@ This repository is a ROS2 package that performs object detection using YOLOv8 wi
 **Published Topic**: 
   - Image-stream with bounding box around detected objects : ```sensor_msgs/msg/Image```<br>
  
-![image](rqt_graph.png)
+![image](fig/rqt_graph.png)
 
 ## Installation
 You can easily convert using the ultralytics python library.

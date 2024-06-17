@@ -1,0 +1,13 @@
+<launch>
+
+  <node pkg="yolo_v8" exec="detection_onnx" name="detection_node" output="screen">
+    <param name="subscribed_topic" value="/cam0/image_raw"/>
+    <param name="published_topic" value="/Detected_image"/>
+    <param name="conf_threshold" value="0.3"/>
+    <param name="iou_threshold" value="0.5"/>
+  </node>
+
+  <node pkg="rviz2" exec="rviz2" name="rviz2" output="screen">
+  </node>
+
+</launch>
