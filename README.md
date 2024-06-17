@@ -20,7 +20,10 @@ This repository is a ROS2 package that performs object detection using YOLOv8 wi
 ## Installation
 
 
-## Running
+## Usage
+'''
+ros2 launch yolo_v8 detection.xml
+'''
 
 
 ## Results
