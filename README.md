@@ -49,12 +49,11 @@ ros2 launch yolo_v8 detection.xml
 
 
 ## Results
-* EUROC dataset experiment with Workstation CPU
-* 
-TBD
-* Real-life experiment with Raspi5-robot
-  
-TBD
+* EUROC dataset experiment with Workstation CPU 
+
+
+* Real-life situation experiment with Raspi5-robot (real-time)
+* TBD
 
 
 ## References
