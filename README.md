@@ -20,7 +20,7 @@ This repository is a ROS2 package that performs object detection using YOLOv8 wi
 ## Installation
 
 
-## 
+## Running
 
 
 ## Results
@@ -34,7 +34,9 @@ platform and experiment situation
 we experimented with the MicroRos-Rp5 model at UNIST.
 
 ## References
+
 * [https://github.com/ConfusionTechnologies/ros-yolov5-node](https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection)
+* [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
   
 ## Developers
 * Minje Kim (minje617@gmail.com)
