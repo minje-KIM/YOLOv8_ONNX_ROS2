@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.8-blue)
 
 This repository is a ROS2 package that performs object detection using YOLOv8 with ONNX.
+![euroc2](https://github.com/minje-KIM/YOLO-with-Raspi5/assets/61033374/b8e3675a-fe53-4567-9045-5493ef073690)
 
 
 ## ROS Package Configuration
