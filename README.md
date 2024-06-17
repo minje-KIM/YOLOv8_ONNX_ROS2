@@ -17,6 +17,11 @@ This repository is a ROS2 package that performs object detection using YOLOv8 wi
  
 ![image](rqt_graph.png)
 
+## Installation
+
+
+## 
+
 
 ## Results
 * Actual video
@@ -29,9 +34,7 @@ platform and experiment situation
 we experimented with the MicroRos-Rp5 model at UNIST.
 
 ## References
-* https://github.com/moksh-401-511/YOLOv5_ROS2-YOu-can-Leverage-On-ROS2
-* http://www.yahboom.net/study/MicroROS-Pi5
-* https://github.com/ConfusionTechnologies/ros-yolov5-node
+* [https://github.com/ConfusionTechnologies/ros-yolov5-node](https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection)
   
 ## Developers
 * Minje Kim (minje617@gmail.com)
