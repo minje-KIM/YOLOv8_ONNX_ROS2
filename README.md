@@ -49,14 +49,15 @@ ros2 launch yolo_v8 detection.xml
 
 
 ## Results
-* EUROC dataset on Workstation CPU
+* EUROC dataset experiment with Workstation CPU
+* 
 TBD
-* Real-life dataset on Raspi5-robot
+* Real-life experiment with Raspi5-robot
+  
 TBD
 
 
 ## References
-
 * [https://github.com/ConfusionTechnologies/ros-yolov5-node](https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection)
 * [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
   
