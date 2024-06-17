@@ -1,4 +1,4 @@
-# YOLOv8_ONNX_ROS2
+# YOLOv8_ONNX_ROS2
 ![ROS2](https://img.shields.io/badge/ros2-humble-blue?logo=ros&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-22.04-blue)
 ![Python](https://img.shields.io/badge/python-3.8-blue)
